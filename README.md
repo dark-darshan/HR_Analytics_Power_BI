@@ -33,7 +33,6 @@ Here’s a preview of the **HR Analytics Dashboard**:
 ## 🧩 **How It Works**
 
 1. Import **CSV datasets** into **Power BI**.  
-2. Clean and transform data using **Power Query**.  
-3. Create relationships between datasets if required.  
-4. Build visuals and **KPIs** using **Power BI** and **DAX** for interactive analysis.  
-5. Use **filters** and **slicers** to analyze attrition trends, department-wise turnover, and demographic insights.
+2. Clean and transform data using **Power Query**.   
+3. Build visuals and **KPIs** using **Power BI** and **DAX** for interactive analysis.  
+4. Use **filters** and **slicers** to analyze attrition trends, department-wise turnover, and demographic insights.
